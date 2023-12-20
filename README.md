@@ -1,2 +1,4 @@
-# rescheduler
-Reschedule resources already deployed in Kubernetes
+
+# Rescheduler
+
+Reschedule resources already deployed in Kubernetes.
